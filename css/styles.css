@@ -44,9 +44,10 @@ main {
 }
 
 main > .intro {
-	font-family: 'Apple Chancery', serif;
+	font-family: 'Palatino', serif;
 	font-size: 3.75em;
 	font-weight: 600;
+	font-variant: small-caps
 }
 
 main > .tagline {
