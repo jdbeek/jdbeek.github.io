@@ -2,6 +2,7 @@
 
 html {
 	font-family: 'Apple Chancery', serif;
+	font-variant: small-caps
 }
 
 @media (min-width: 576px) {
@@ -47,7 +48,6 @@ main > .intro {
 	font-family: 'Palatino', serif;
 	font-size: 3.75em;
 	font-weight: 600;
-	font-variant: small-caps
 }
 
 main > .tagline {
