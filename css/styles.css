@@ -70,3 +70,12 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.header {
+	padding: 60px;
+	text-align: justify;
+	background: 000000;
+	color: white;
+	font-size: 1.5rem
+}
+	
