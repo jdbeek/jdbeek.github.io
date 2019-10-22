@@ -80,6 +80,8 @@ main > .tagline {
 	font_family: 'Courier New', serif
 	font-variant: small-caps
 	border-style: double
+	border-width: 2px
+	border-color: 440c0c
 }
 h2 {
 	padding: 60px;
