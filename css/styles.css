@@ -2,7 +2,7 @@
 
 html {
 	font-family: 'Apple Chancery', serif;
-	font-variant: small-caps
+	font-variant: small-caps;
 }
 
 @media (min-width: 576px) {
@@ -76,18 +76,18 @@ main > .tagline {
 	text-align: center;
 	background: 000000;
 	color: black;
-	font-size: 1.5rem
+	font-size: 1.5rem;
 }
 h1 {	font-family: 'Courier New', serif;
 	font-variant: small-caps;
-	border: 2px double black
+	border: 2px double black;
 }
 h2 {
 	padding: 60px;
 	text-align: justify;
 	background: 000000;
 	color: black;
-	font-size: 1.5rem
+	font-size: 1.5rem;
 }
 p {	text-indent: 50px;
 }
