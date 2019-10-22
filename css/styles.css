@@ -73,9 +73,16 @@ main > .tagline {
 
 .header {
 	padding: 60px;
-	text-align: justify;
+	text-align: center;
 	background: 000000;
 	color: white;
 	font-size: 1.5rem
 }
-	
+
+.header {
+	padding: 60px;
+	text-align: justify;
+	background: 000000;
+	color: white;
+	font-size: 1.5rem
+}	
