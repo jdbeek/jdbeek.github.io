@@ -80,7 +80,7 @@ main > .tagline {
 }
 h1 {	font-family: 'Courier New', serif;
 	font-variant: small-caps;
-	border: 2px double black;
+	border: 5px double black;
 }
 h2 {
 	padding: 60px;
