@@ -77,6 +77,7 @@ main > .tagline {
 	background: 000000;
 	color: grey;
 	font-size: 1.5rem
+	p.double {border-style: double;}
 }
 h2 {
 	padding: 60px;
