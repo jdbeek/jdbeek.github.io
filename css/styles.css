@@ -79,7 +79,7 @@ main > .tagline {
 	font-size: 1.5rem
 	font_family: 'Courier New', serif
 	font-variant: small-caps
-	p.double {border-style: double;}
+	border-style: double
 }
 h2 {
 	padding: 60px;
