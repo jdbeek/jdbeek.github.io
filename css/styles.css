@@ -75,14 +75,14 @@ main > .tagline {
 	padding: 60px;
 	text-align: center;
 	background: 000000;
-	color: white;
+	color: grey;
 	font-size: 1.5rem
 }
 h2 {
 	padding: 60px;
 	text-align: justify;
 	background: 000000;
-	color: white;
+	color: grey;
 	font-size: 1.5rem
 }
 p {	text-indent: 50px;
