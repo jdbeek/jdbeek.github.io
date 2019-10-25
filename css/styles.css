@@ -82,7 +82,7 @@ h1 {	font-family: 'Courier New', serif;
 	font-variant: small-caps;
 	border: 5px double black;
 }
-p1 {
+h2 {
 	padding: 60px;
 	text-align: justify;
 	background: 000000;
@@ -101,10 +101,6 @@ div.c {
 h3 {	font-family: 'Courier New', serif;
 	font-variant: small-caps;
 	border: 5px double black;
-	padding: 60px;
-	text-align: center;
-	background: 000000;
-	color: black;
 	font-size: 1.5rem;
 }
 div.d {
